@@ -3,6 +3,7 @@
 
 		<u-notify ref="uNotify" message="Hi uView"></u-notify>
 		<!-- //第一次本地修改 -->
+		<!-- 第二本地修改，远程仓库推送 -->
 		<view style="display: flex;flex-direction: column;align-items: center;margin-bottom: 5%;">
 			<u-avatar :src="avatarUrl" size="250rpx"></u-avatar>
 		</view>
